@@ -1,0 +1,44 @@
+<!-- 00_general_info.qmd -->
+# Example
+
+This is a question, please answer it. You can delete this section! You can also delete the Hints later on!
+
+## Hints
+- Screenshot should contain only the necessary information. This means:
+  - Don't post 4k screenshots
+  - Don't just post an image of a green checkmark.
+  - Screenshots of commits and passing pipelines have to contain the commit hash
+    and the green checkmark of the pipeline.
+  - Checkout the recipes on how to take proper screenshots of parts of your screen.
+- This document may change throughout the semester. Use git to merge changes
+  into your document. I expect both versions to match in the end.
+
+:::{.answer}
+This is the answer, please fence accordingly.
+
+
+```python
+# this is some code
+def f(x):
+    return "hello world"
+```
+
+If you use a command to get certain information **always** add the command, even if it is not explicitly stated in the exercise.
+```bash
+gkraemer@mymachine ~$ echo "hello world"
+hello world
+```
+> Quote something
+
+
+:::{.llm}
+If you used LLMs or other kinds of AI for solving the exercises, include the
+conversation in an `.llm` fence. 
+
+You can double click in the final document to expand it.
+
+If you don't disclose the use of LLMs, I will consider it cheating.
+:::
+
+:::
+

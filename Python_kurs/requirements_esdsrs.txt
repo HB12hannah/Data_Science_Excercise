@@ -1,0 +1,39 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+xarray
+netCDF4
+h5netcdf
+
+# Geospatial & remote sensing
+rasterio
+geopandas
+shapely
+regionmask
+cartopy
+pyproj
+
+# Data access & manipulation
+requests
+tqdm
+pathlib
+dask
+zarr
+
+# Machine learning / statistics
+scikit-learn
+statsmodels
+
+# Visualization & notebooks
+jupyter
+notebook
+plotly
+holoviews
+
+# Climate & earth system analysis
+cfgrib
+cftime
+climate_indices

@@ -1,0 +1,6 @@
+Collecting cython
+  Downloading cython-3.1.4-cp311-cp311-macosx_10_9_x86_64.whl.metadata (5.0 kB)
+Downloading cython-3.1.4-cp311-cp311-macosx_10_9_x86_64.whl (3.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 5.3 MB/s eta 0:00:00
+Installing collected packages: cython
+Successfully installed cython-3.1.4
